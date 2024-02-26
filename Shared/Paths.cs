@@ -3,8 +3,8 @@ namespace Shared
 {
     public class Paths
     {
-        public static string FOLDER = @"/c/IT-artike/6-semester/Arkitekturprincipper_i_praksis/seData/small";
+        public static string FOLDER = @"/Users/ole/Data/seData/small";
 
-        public static string DATABASE = @"/c/IT-artike/6-semester/Arkitekturprincipper_i_praksis/Data/searchDBLarge.db";
+        public static string DATABASE = @"/Users/oleeriksen/Data/searchDBLarge.db";
     }
 }
